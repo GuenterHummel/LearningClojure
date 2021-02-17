@@ -1,6 +1,6 @@
-# firstcl
+# LearningClojure
 
-FIXME: description
+Endevours in learning clojure
 
 ## Installation
 
