@@ -18,5 +18,6 @@
   (println "Hello, World!")
   (println "Super Stuff, das Clojure")
   (.println (System/out) "Hi")
-  (println "LOGIN OK <" "Siva" "> :" (check-login "siva" "secrets")))
+  (println "LOGIN OK ? <" "George" "> :" (check-login "george" "secretg"))
+  (println "LOGIN OK ? <" "Siva" "  > :" (check-login "siva" "secretg")))
 
