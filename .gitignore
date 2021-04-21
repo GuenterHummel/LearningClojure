@@ -1,2 +1,4 @@
 /firstcl/target/
 /my-stuff/target/
+my-stuff/.nrepl-port
+my-stuff/.lein-repl-history
