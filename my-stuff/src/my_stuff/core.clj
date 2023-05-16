@@ -17,9 +17,10 @@
   [& args]
   (alter-var-root #'*read-eval* (constantly false))
   (println "Hello, World!")
-  (println "Super Stuff, das Clojure")
-  (.println (System/out) "Hi")
+  (println "another line printed")
+  (.println (System/out) "a line printed with Java System.out.println")
   (println "LOGIN OK <" "Siva" "> :" (check-login "siva" "secrets"))
+  (println "LOGIN OK <" "George" "> :" (check-login "george" "secrets"))
   )
 
 
