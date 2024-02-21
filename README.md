@@ -1,6 +1,6 @@
 # LearningClojure
 
-Endevours in learning clojure
+Endeavors in learning clojure
 
 ## Installation
 
