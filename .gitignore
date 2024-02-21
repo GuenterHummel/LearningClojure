@@ -2,4 +2,4 @@
 /my-stuff/target/
 my-stuff/.nrepl-port
 my-stuff/.lein-repl-history
-.clj-kondo/.cache/v1/lock
+/.clj-kondo/
