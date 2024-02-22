@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run tests in my-stuff.core-test" type="ClojureTestRunConfiguration" factoryName="clojure.test">
+    <module name="my-stuff" />
+    <option name="namespace" value="my-stuff.core-test" />
+    <option name="options" />
+    <option name="profiles" />
+    <option name="selector" value="SINGLE_NS" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my-stuff" />
+    <method v="2" />
+  </configuration>
+</component>

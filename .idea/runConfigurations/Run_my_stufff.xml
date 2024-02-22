@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run my-stufff" type="LeiningenRunConfiguration" factoryName="Leiningen">
+    <option name="execution" value="LEININGEN" />
+    <module name="my-stuff" />
+    <option name="options" />
+    <option name="profiles" />
+    <option name="PROGRAM_PARAMETERS" value="run" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my-stuff" />
+    <method v="2" />
+  </configuration>
+</component>

@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run firstcl" type="LeiningenRunConfiguration" factoryName="Leiningen">
+    <option name="execution" value="LEININGEN" />
+    <module name="firstcl" />
+    <option name="options" />
+    <option name="profiles" />
+    <option name="PROGRAM_PARAMETERS" value="run" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/firstcl" />
+    <method v="2" />
+  </configuration>
+</component>
