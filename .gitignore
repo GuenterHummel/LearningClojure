@@ -3,3 +3,5 @@
 my-stuff/.nrepl-port
 my-stuff/.lein-repl-history
 /.clj-kondo/
+my-stuff/.lein-failures
+firstcl/.lein-failures
